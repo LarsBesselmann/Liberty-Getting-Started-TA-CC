@@ -266,7 +266,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
  
     From the web browser: 
 
-    http://server0.gym.lan:2220/lands_advisor/advisor/v2/collectionArchives/bulkImport/status/83265910884066
+    http://rhel9-base.gym.lan:2220/lands_advisor/advisor/v2/collectionArchives/bulkImport/status/344199541317364
     
     **(The ID will be different on your environment)**
  
