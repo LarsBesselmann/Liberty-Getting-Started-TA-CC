@@ -198,7 +198,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
 
     b. Type **`5`** for starting Transformation Advisor and press **`Enter`**.
 
-        ![](./images/media/image9_new.png)
+    ![](./images/media/image9_new.png)
  
     This starts TA Local. After TA Local is started, the URL to the TA console is provided.
     <!-- LBH: Adjusted URL as it changed -->
