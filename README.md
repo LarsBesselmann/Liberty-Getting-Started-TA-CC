@@ -200,9 +200,8 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
 
     ![](./images/media/image9_new.png)
  
-    This starts TA Local. After TA Local is started, the URL to the TA console is provided.
+    This starts the Transformation Advisor. After TA Local is started, the URL to the TA console is provided, which is  **http://rhel9-base.gym.lan:3000**.
     <!-- LBH: Adjusted URL as it changed -->
-    The URL is displayed in the output from the TA command: **http://rhel9-base.gym.lan:3000**
     ![](./images/media/TA_has_started.png)
  
 
