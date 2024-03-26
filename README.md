@@ -417,12 +417,9 @@ With these insights you will learn which common code libraries would provide the
 
     b.  Expand the **ACMEAnnuityEJBMDB.ear** application to get the details of the common code used by the application
 
-    ![](./images/media/image34.png)
+    <kbd>![](./images/media/image34.png)</kbd>
 
-    The details about the common code used by the **ACMEAnnuityEJBMDB.ear** is displayed
-
-    ![](./images/media/image35.png)
- 
+    
     **Note the important details about the modernization cost for the application and common code**
 
     - The application uses **2** common code jar files
@@ -437,7 +434,7 @@ With these insights you will learn which common code libraries would provide the
 
     - **AcmeCommon.jar** modernization complexity is **SIMPLE**
 
-    - Cost to modernize the **common code** is **9.5** days
+    - Cost to modernize the **common code** is **7.5** days
 
     - Cost to modernize the **unique application code** is **0** days (no code changes required)
 
