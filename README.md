@@ -146,7 +146,7 @@ The lab environment contains one Linux VM.
 
 <!-- LBH: Added description how to access toolbar -->
 4. Click on the **`Activities`** icon within the VM to switch between different windows or get access the tool bar.
-    ![fit to window](./images/media/Activies_new.png)
+    ![fit to window](./images/media/Activies.png)
     <br>
 
 
@@ -168,7 +168,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     
     a. Use the **Activities** Icon to switch to the toolbar, then click the **Terminal** icon to open a Terminal window.
     <!-- LBH: Updated description how to access toolbar -->
-    ![](./images/media/Toolbar_terminal_new.png)
+    ![](./images/media/Toolbar_terminal.png)
 
     b.  Clone the GitHub repo by running the commands below from the terminal window.
     <!-- LBH: Adjusted lab to use Student folder instead of home to store content -->
@@ -264,6 +264,8 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     You can track the progress of the upload by using the command that is displayed at the end of the “bulkImport” output on the Terminal Window
 
     **Example:**
+     Use the **Activities** Icon to switch to the toolbar, then click the **Firefox** icon to open a browser window.
+    ![](./images/media/Toolbar_firefox.png)
  
     From the web browser, access the status page via a URL similar to this: 
 
@@ -274,7 +276,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
  
     Reload the status page repeatedly, until you see the message “**Bulk upload complete”**
  
-    ![](./images/media/image11.png)
+    ![](./images/media/TA_Buld_Status.png)
  
     **Note:** You can also track the progress of the upload by tailing the logs for the **taserver** docker container. 
     
