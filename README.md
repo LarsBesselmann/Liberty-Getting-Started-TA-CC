@@ -327,7 +327,7 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
  
     These default collection names can be overridden in the TA UI, if desired, by using the “**edit collection**” option from the Options menu. For this lab, you will just keep the default collection names.
  
-    ![](./images/media/image19.png)
+    <kbd>![](./images/media/image19.png)</kbd>
  
     
     <br/>
@@ -350,15 +350,15 @@ Let’s create a new group for the ACME applications.
 
 3.  Next, check the box next to Java application, which will select all five ACME applications. Then click **`Add to group`**.
 
-    ![](./images/media/image23.png)
+   <kbd>![](./images/media/image23.png)</kbd>
 
 4.  Give a group name as **`ACME`** and click **`Add to group(s)`.**
 
-    ![](./images/media/image24.png)
+    <kbd>![](./images/media/image24.png)</kbd>
  
     A new Group named **ACME** has been created, and is listed under **Groups** in the TA navigation menu
  
-    ![](./images/media/image25.png)
+    <kbd>![](./images/media/image25.png)</kbd>
 
 5.  Select the **`ACME`** group under **`Groups`**, which will cause TA to recalculate the effort involved to modernize the workspace scoped to only include the ACME group of applications.
 
