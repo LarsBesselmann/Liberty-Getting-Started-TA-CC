@@ -298,11 +298,9 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
 
     
 
-    ![Graphical user interface Description automatically generated](./images/media/image12.png)
-
     b.  In the web browser window, click the **`TA Local bookmark`** to open TA console.
 
-    The TA local URL is: **http://server0.gym.lan:3000**
+    The TA local URL is: **http://rhel9-base.gym.lan:3000**
  
     ![Graphical user interface, application Description automatically generated](./images/media/image13.png)
  
