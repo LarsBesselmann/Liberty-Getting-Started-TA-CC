@@ -166,23 +166,26 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
 
 1.  Clone GitHub demo artifacts
     
-    a. Open a new Terminal window
-
-    ![Graphical user interface Description automatically generated](./images/media/image8.png)
+    a. Use the **Activities** Icon to switch to the toolbar, then click the **Terminal** icon to open a Terminal window.
+    <!-- LBH: Updated description how to access toolbar -->
+    ![](./images/media/Toolbar_terminal_new.png)
 
     b.  Clone the GitHub repo by running the commands below from the terminal window.
+    <!-- LBH: Adjusted lab to use Student folder instead of home to store content -->
 
-        cd /home/techzone
+        mkdir /home/techzone/Student
+
+        cd /home/techzone/Student
 
         git clone https://github.com/IBMTechSales/appmod-pot-labfiles
 
-    Once the repo is clone, the local lab artifacts is available in the following directory.
- 
-    > /home/techzone/appmod-pot-labfiles
+    Once completed, the local lab artifacts repo is cloned at the following directory on the desktop VM. 
+    
+    > **/home/techzone/Student/appmod-pot-labfiles**
  
     The bulk data file, **bulk\_data\_3.zip** is located at:
  
-    > /home/techzone/appmod-pot-labfiles/labs/TransformationAdvisor
+    > /home/techzone/Student/appmod-pot-labfiles/labs/TransformationAdvisor
 
 1.  Start TA Local.
     
