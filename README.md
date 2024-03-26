@@ -70,7 +70,7 @@ Otherwise, you will need to reserve an environment for the lab. You can obtain o
 
 The lab environment contains one Linux VM. 
 
-![](./images/media/env-list_new.png)
+<kbd>![](./images/media/env-list_new.png)</kbd>
 
 <br/>
 
@@ -146,7 +146,7 @@ The lab environment contains one Linux VM.
 
 <!-- LBH: Added description how to access toolbar -->
 4. Click on the **`Activities`** icon within the VM to switch between different windows or get access the tool bar.
-    ![fit to window](./images/media/Activies.png)
+    <kbd>![fit to window](./images/media/Activies.png)</kbd>
     <br>
 
 
@@ -168,7 +168,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     
     a. Use the **Activities** Icon to switch to the toolbar, then click the **Terminal** icon to open a Terminal window.
     <!-- LBH: Updated description how to access toolbar -->
-    ![](./images/media/Toolbar_terminal.png)
+    <kbd>![](./images/media/Toolbar_terminal.png)</kbd>
 
     b.  Clone the GitHub repo by running the commands below from the terminal window.
     <!-- LBH: Adjusted lab to use Student folder instead of home to store content -->
@@ -198,11 +198,11 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
 
     b. Type **`5`** for starting Transformation Advisor and press **`Enter`**.
 
-    ![](./images/media/image9_new.png)
+    <kbd>![](./images/media/image9_new.png)</kbd>
  
     This starts the Transformation Advisor. After TA Local is started, the URL to the TA console is provided, which is  **http://rhel9-base.gym.lan:3000**.
     <!-- LBH: Adjusted URL as it changed -->
-    ![](./images/media/TA_has_started.png)
+    <kbd>![](./images/media/TA_has_started.png)</kbd>
  
 
 3.  Upload WebSphere Application Server bulk data to TA Local.
@@ -265,7 +265,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
 
     **Example:**
      Use the **Activities** Icon to switch to the toolbar, then click the **Firefox** icon to open a browser window.
-    ![](./images/media/Toolbar_firefox.png)
+    <kbd>![](./images/media/Toolbar_firefox.png)</kbd>
  
     From the web browser, access the status page via a URL similar to this: 
 
@@ -276,7 +276,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
  
     Reload the status page repeatedly, until you see the message “**Bulk upload complete”**
  
-    ![](./images/media/TA_Bulk_Status.png)
+    <kbd>![](./images/media/TA_Bulk_Status.png)</kbd>
  
     **Note:** You can also track the progress of the upload by tailing the logs for the **taserver** docker container. 
     
@@ -295,7 +295,7 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
 1.  Open the new workspace in the TA console
 
     a.  Switch to the browser window. In the web browser window, click the **`TA Local bookmark`** to open TA console.
-    ![](./images/media/firefox_bookmark_TA.png)
+    <kbd>![](./images/media/firefox_bookmark_TA.png)</kbd>
 
     The TA local URL is: **http://rhel9-base.gym.lan:3000**
  
@@ -303,11 +303,11 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
  
     TA **UI Welcome page** is displayed, and you can see that **ta300_data_3** workspace is listed.
 
-    ![Graphical user interface, application, Teams Description automatically generated](./images/media/image14.png)
+    <kbd>![Graphical user interface, application, Teams Description automatically generated](./images/media/image14.png)</kbd>
 
 2.  Click **`ta300_data_3`** workspace link to access the workspace.
 
-    ![](./images/media/image15.png)
+    <kbd>![](./images/media/image15.png)</kbd>
  
     The **ta300_data_3** workspace page is displayed and has evaluated 15 java applications, including 5 applications related to the ACME application.
  
@@ -317,7 +317,7 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
  
     In this summary, modernizing the **common code cost** is **8.5** days, and **unique application modernization cost** is **89.5** days.
  
-    ![](./images/media/TA_all15Apps_WLP_Costs.png)
+   <kbd>![](./images/media/TA_all15Apps_WLP_Costs.png)</kbd>
  
     The workspace includes analysis of applications from **three** (3) WebSphere Application Server environments, per the bulk upload.
  
@@ -346,7 +346,7 @@ Let’s create a new group for the ACME applications.
 
 1. Click the **`Collections`** dropdown menu. Then check the box next to **`acme.webserver.com`.** Ensure the other two collections remain UNCHECKED.
 
-    ![](./images/media/image21.png)
+    <kbd>![](./images/media/image21.png)</kbd>
 
 3.  Next, check the box next to Java application, which will select all five ACME applications. Then click **`Add to group`**.
 
