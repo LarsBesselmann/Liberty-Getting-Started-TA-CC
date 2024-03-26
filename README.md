@@ -368,17 +368,17 @@ Let’s create a new group for the ACME applications.
  
     ![](./images/media/image27.png)
     
-    The **ACME group summary** now shows **5 applications** and an average of **2.3** days to modernize each application.
+    The **ACME group summary** now shows **5 applications** and an average of **1.7** days to modernize each application.
  
     TA’s assessment of the Group estimated costs take into consideration the following:
 
-    - The **unique application code** to be modernized, which is **2** days.
+    - The **unique application code** to be modernized, which is **1.52** days.
 
-    - The **Common code** shared between some or all the applications, which is **10** days.
+    - The **Common code** shared between some or all the applications, which is **8.5** days.
 
     With this view, TA has produced a realistic and more accurate cost estimate for modernizing the ACME application.
  
-    The cost to modernize the **5** ACME applications including common code, that only needs to be updated ONCE, is about **11.5** days.
+    The cost to modernize the **5** ACME applications including common code, that only needs to be updated ONCE, is about **8.5** days.
  
     From this we can see the value of the TA analysis in terms of looking into the applications to find COMMON CODE and SHARED libraries, then coming up with a reasonable recommendation for modernizing the applications since common code only needs to be fixed once and is fixed for all the applications that use it.
  
