@@ -491,7 +491,7 @@ With these insights you will learn which common code libraries would provide the
 
 6.  From the list of applications using this common code utility jar, `click` on the **ACMEAnnuityEJBWSes.ear** application to display its details. 
 
-    ![](./images/media/image41-b.png)
+    <kbd>![](./images/media/image41-b.png)</kbd>
 
  
 7.  While in the **ACMEAnnuityEJBWSes.ear** details view, scroll down to the **Complexity Rues** and **Issues Detail** sections, where you can begin to dig deeper into the specific issues flagged by TA.
@@ -504,7 +504,7 @@ With these insights you will learn which common code libraries would provide the
 
     Here you begin to gain insights into the specific issues that need to be addressed, and the associated costs for resolving the specific issues that were discovered.
  
-    ![](./images/media/image42.png)
+    <kbd>![](./images/media/image42.png)</kbd>
  
     In summary, the insights gained using Transformation Advisors common code discovery capability clearly show that performing the **10** days of effort required to modernize the **AcmeAnnuityCommon.jar** file means that MOST of the work will be completed for all five (5) of the ACME applications.
   
