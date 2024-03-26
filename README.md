@@ -317,7 +317,7 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
  
     In this summary, modernizing the **common code cost** is **11** days, and **unique application modernization cost** is **91.5** days.
  
-    ![](./images/media/image17.png)
+    ![](./images/media/TA_all15Apps_WLP_Costs.png)
  
     The workspace includes analysis of applications from **three** (3) WebSphere Application Server environments, per the bulk upload.
  
