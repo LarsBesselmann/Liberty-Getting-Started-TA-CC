@@ -403,17 +403,17 @@ With these insights you will learn which common code libraries would provide the
     
     a. From the ACME group, open the “**`Common code`**” tab
 
-    ![](./images/media/image31.png)
+    <kbd>![](./images/media/image31.png)</kbd>
 
     b. Now you see the summary for the common code files, including the **Complexity, Issues**, **Used by Applications**, and **Common code cost** to modernize the common code file.
 
-    ![](./images/media/image32.png)
+    <kbd>![](./images/media/image32.png)</kbd>
 
 2.  Return to the “**`Java Applications`**” tab, and view the details of the common code used by the **ACMEAnnuityEJBMDB.ear** application
     
-    a.   Click the “**`Java applications`**” tab to return to the list of ava applications
+    a.   Click the “**`Java applications`**” tab to return to the list of Java applications
 
-    ![](./images/media/image33.png)
+    <kbd>![](./images/media/image33.png)</kbd>
 
     b.  Expand the **ACMEAnnuityEJBMDB.ear** application to get the details of the common code used by the application
 
