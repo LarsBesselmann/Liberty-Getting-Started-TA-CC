@@ -259,9 +259,9 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     ```
     **Note**: The ID will be different on your environment.
  
-    It takes a few minutes (3-5 minutes) for the upload to complete.
+4.  It takes a few minutes (3-5 minutes) for the upload to complete.
 
-4.  You can track the progress of the upload by using the command that is displayed at the end of the “bulkImport” output on the Terminal Window
+    You can track the progress of the upload by using the command that is displayed at the end of the “bulkImport” output on the Terminal Window
 
     **Example:**
  
