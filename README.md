@@ -203,7 +203,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     This starts TA Local. After TA Local is started, the URL to the TA console is provided.
     <!-- LBH: Adjusted URL as it changed -->
     The URL is displayed in the output from the TA command: **http://rhel9-base.gym.lan:3000**
-    ![](./images/media/image10_new.png)
+    ![](./images/media/TA_started.png)
  
 
 3.  Upload WebSphere Application Server bulk data to TA Local.
