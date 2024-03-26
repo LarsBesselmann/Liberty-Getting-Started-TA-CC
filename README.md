@@ -472,19 +472,18 @@ With these insights you will learn which common code libraries would provide the
 
     - **AcmeAnnuityCommon.jar** is used by all **5** ACME applications
 
-    - The modernization cost for **AcmeAnnuityCommon.jar** is **9.5** days
+    - The modernization cost for **AcmeAnnuityCommon.jar** is **7.5** days
 
-    - Looking at each application in isolation, as illustrated below, you see the total cost for each app is between **9.5** days and **11** days.
+    - Looking at each application in isolation, as illustrated below, you see the total cost for each app is between **7.5** days and **8.5** days.
     
-      - **AcmeAnnuityCommon.jar** accounts for **9.5** days of that cost, but only needs to be incurred once.
+      - **AcmeAnnuityCommon.jar** accounts for **7.5** days of that cost, but only needs to be incurred once.
 
-    - Modernizing the **unique application code** across all **5** applications is only **2** days.
+    - Modernizing the **unique application code** across all **5** applications is only **1.5** days.
       - 1.5 days for ACMEAnnuityEJBWSes.ear
-      - 0.5 day for ACMEAnnuityJAXRSWSes.ear
 
-    The insights gained here clearly show that performing the **9.5** days required to modernize the **AcmeAnnuityCommon.ja**r file means that MOST of the work will be completed for all five (5) of the ACME applications.
+    The insights gained here clearly show that performing the **7.5** days required to modernize the **AcmeAnnuityCommon.jar** file means that MOST of the work will be completed for all five (5) of the ACME applications.
  
-    ![](./images/media/image41.png)
+    <kbd>![](./images/media/image41.png)</kbd>
 
 5.  While in the **AcmeAnnuityCommon.jar** details view, scroll down to view the applications that use this common utility jar. 
 
