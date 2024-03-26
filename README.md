@@ -535,6 +535,9 @@ The export generates a zip file of the workspace summary and /or application det
     b.   From the “Export” page, ensure the “**Summary of workspace**” and “**Application details**” are selected to be exported, then click **`Export`**.
 
     <kbd>![](./images/media/image46.png)</kbd>
+
+    c. Accept the defaults, then click on **Save**
+    <kbd>![](./images/media/image46-b.png)</kbd>
  
     A zip file named “**ta300_data_3_ACME_WebsphereLiberty_report.zip**” is created in the directory: **/home/techzone/Downloads.**
 
