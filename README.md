@@ -292,7 +292,11 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
 
 1.  Open the new workspace in the TA console
 
-    a.  If the web browser window is not open, launch it by clicking the web browser icon in the desktop.
+    a.  Use the **Activities** Icon to switch to the toolbar, then click the **Firefox** icon to open a browser window.
+    <!-- LBH: Updated description how to access toolbar -->
+    ![](./images/media/Toolbar_firefox_new.png)
+
+    
 
     ![Graphical user interface Description automatically generated](./images/media/image12.png)
 
