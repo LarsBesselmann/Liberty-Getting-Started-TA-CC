@@ -466,7 +466,7 @@ With these insights you will learn which common code libraries would provide the
     
     a.  Click into the **AcmeAnnuityCommon.jar** common code file to get the modernization details
 
-    ![](./images/media/image40.png)
+    <kbd>![](./images/media/image40.png)</kbd>
 
     b. The details view for the **AcmeAnnuityCommon.jar** file reveals very important information and insights about modernizing the ACME applications, as illustrated below. 
 
