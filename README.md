@@ -276,7 +276,7 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
  
     Reload the status page repeatedly, until you see the message “**Bulk upload complete”**
  
-    ![](./images/media/TA_Buld_Status.png)
+    ![](./images/media/TA_Bulk_Status.png)
  
     **Note:** You can also track the progress of the upload by tailing the logs for the **taserver** docker container. 
     
