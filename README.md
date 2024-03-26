@@ -294,17 +294,12 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
 
 1.  Open the new workspace in the TA console
 
-    a.  Use the **Activities** Icon to switch to the toolbar, then click the **Firefox** icon to open a browser window.
-    <!-- LBH: Updated description how to access toolbar -->
-    ![](./images/media/Toolbar_firefox_new.png)
-
-    
-
-    b.  In the web browser window, click the **`TA Local bookmark`** to open TA console.
+    a.  Switch to the browser window. In the web browser window, click the **`TA Local bookmark`** to open TA console.
+    ![](./images/media/firefox_bookmark_TA.png)
 
     The TA local URL is: **http://rhel9-base.gym.lan:3000**
  
-    ![Graphical user interface, application Description automatically generated](./images/media/image13.png)
+    
  
     TA **UI Welcome page** is displayed, and you can see that **ta300_data_3** workspace is listed.
 
