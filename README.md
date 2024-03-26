@@ -329,10 +329,7 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
  
     ![](./images/media/image19.png)
  
-    ![](./images/media/image20.png)
- 
-3. If you opened the “**edit Collections**” option, **close** it now.
-
+    
     <br/>
 
 ## 2.2 Review the Workspace summary for ONLY the ACME applications
