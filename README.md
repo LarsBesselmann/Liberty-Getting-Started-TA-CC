@@ -257,21 +257,22 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     * Connection #0 to host rhel9-base.gym.lan left intact
     {"message":"Bulk upload started. Track the status at: http://rhel9-base.gym.lan:2220/lands_advisor/advisor/v2/collectionArchives/bulkImport/status/344199541317364 "}   
     ```
+    **Note**: The ID will be different on your environment.
+ 
     It takes a few minutes (3-5 minutes) for the upload to complete.
 
 4.  You can track the progress of the upload by using the command that is displayed at the end of the “bulkImport” output on the Terminal Window
 
     **Example:**
  
-    From the web browser: 
+    From the web browser, access the status page via a URL similar to this: 
 
     http://rhel9-base.gym.lan:2220/lands_advisor/advisor/v2/collectionArchives/bulkImport/status/344199541317364
     
-    **(The ID will be different on your environment)**
- 
+    
     **Note**: Your URL will be different than the example shown, as the URL to the status is specific for each bulkImport, which includes a **unique ID** for the bulkImport.
  
-    Run the bulkImport status job, repeatedly, until you see the message “**Bulk Upload Complete”**
+    Reload the status page repeatedly, until you see the message “**Bulk upload complete”**
  
     ![](./images/media/image11.png)
  
