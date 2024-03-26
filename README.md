@@ -344,13 +344,9 @@ The benefit of this is that you can easily get an accurate estimate for moderniz
  
 Let’s create a new group for the ACME applications.
 
-1. Click the **`Collections`** dropdown menu.
+1. Click the **`Collections`** dropdown menu. Then check the box next to **`acme.webserver.com`.** Ensure the other two collections remain UNCHECKED.
 
-    ![](./images/media/image21.png).
-
-2. Check the box next to **`acme.webserver.com`.** Ensure the other two collections remain UNCHECKED.
-
-    ![](./images/media/image22.png)
+    ![](./images/media/image21.png)
 
 3.  Next, check the box next to Java application, which will select all five ACME applications. Then click **`Add to group`**.
 
