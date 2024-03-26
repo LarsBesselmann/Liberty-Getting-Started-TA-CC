@@ -191,18 +191,20 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     
     a. TA Local needs to be started using the following commands and selections:
 
-        cd /home/techzone/transformation-advisor-local-3.8.1
+        cd /home/techzone/transformation-advisor-local-3.9.0
 
         ./launchTransformationAdvisor.sh
 
 
     b. Type **`5`** for starting Transformation Advisor and press **`Enter`**.
 
-    ![Text Description automatically generated](./images/media/image9.png)
+        ![](./images/media/image9_new.png)
  
     This starts TA Local. After TA Local is started, the URL to the TA console is provided.
+    <!-- LBH: Adjusted URL as it changed -->
+    The URL is displayed in the output from the TA command: **http://rhel9-base.gym.lan:3000**
+    ![](./images/media/image10_new.png)
  
-    ![A screenshot of a computer Description automatically generated with medium confidence](./images/media/image10.png)
 
 3.  Upload WebSphere Application Server bulk data to TA Local.
 
