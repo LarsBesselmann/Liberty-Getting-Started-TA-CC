@@ -144,7 +144,9 @@ The lab environment contains one Linux VM.
    
 3. An alternative to using the noVNC Copy / Paste option, you may consider opening the lab guide in a web browser inside of the VM. Using this method, you can easily copy / paste text from the lab guide without having to use the noVNC clipboard. 
 
-
+<!-- LBH: Added description how to access toolbar -->
+4. Click on the **`Activities`** icon within the VM to switch between different windows or get access the tool bar.
+    ![fit to window](./images/media/Activies_new.png)
     <br>
 
 
