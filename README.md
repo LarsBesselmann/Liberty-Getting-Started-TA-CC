@@ -372,7 +372,7 @@ Let’s create a new group for the ACME applications.
  
     TA’s assessment of the Group estimated costs take into consideration the following:
 
-    - The **unique application code** to be modernized, which is **1.52** days.
+    - The **unique application code** to be modernized, which is **1.5** days.
 
     - The **Common code** shared between some or all the applications, which is **8.5** days.
 
@@ -382,9 +382,9 @@ Let’s create a new group for the ACME applications.
  
     From this we can see the value of the TA analysis in terms of looking into the applications to find COMMON CODE and SHARED libraries, then coming up with a reasonable recommendation for modernizing the applications since common code only needs to be fixed once and is fixed for all the applications that use it.
  
-    In this example, without common code discovery, the view of the individual applications cost of modernization shows **49.5** days, as illustrated below. However, the **more accurate assessment** of the **Total cost** is **11.5** days based on TA’s analysis of the common code used among the ACME applications.
+    In this example, without common code discovery, the view of the individual applications cost of modernization shows **38.5** days, as illustrated below. However, the **more accurate assessment** of the **Total cost** is **11.5** days based on TA’s analysis of the common code used among the ACME applications.
  
-    The cost for modernizing the **unique application code** in the ACME group is just **2** days.
+    The cost for modernizing the **unique application code** in the ACME group is just **1.5** days.
  
     ![](./images/media/image29.png)
  
