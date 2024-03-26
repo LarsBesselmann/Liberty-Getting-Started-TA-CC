@@ -506,18 +506,14 @@ With these insights you will learn which common code libraries would provide the
  
     <kbd>![](./images/media/image42.png)</kbd>
  
-    In summary, the insights gained using Transformation Advisors common code discovery capability clearly show that performing the **8.5** days of effort required to modernize the **AcmeAnnuityCommon.jar** file means that MOST of the work will be completed for all five (5) of the ACME applications.
-  
+    In summary, the insights gained using Transformation Advisors common code discovery capability clearly show that performing the **8.5** days of effort required to modernize the **AcmeAnnuityCommon.jar** file means that ALL of the work will be completed for all five (5) of the ACME applications.
+    You learned that **7.5** days of that work is modernizing the common code, which only needs to be done once.
+   
     Recall the summary view for the **ACME group of applications** showed the **Total cost** for modernizing the entire ACME group of applications is **8.5** days.
  
     <kbd>![](./images/media/image27.png)</kbd>
  
-    You learned that **7.5** days of that work is modernizing the common code, which only needs to be done once.
  
-    You further learned that the **AcmeAnnuityCommon.jar** file cost accounts for **8.5** days of the **8.5** days required to modernize the common code.
- 
-    Lastly, you learned that the cost associated for modernizing the **unique application code** for the **ACME group** of applications is only **1.5** day of the **11.5** days estimated by Transformation Advisor.
-
     <br/>
 
 ## 2.3.1 Export and review the Workspace summary and application details
@@ -532,17 +528,13 @@ The export generates a zip file of the workspace summary and /or application det
 
 1.  Export the Workspace and application details for the **ACME** group of applications.
     
-    a.  From TA, return to the `ACME group` applications list.
+    a.  In TA, navigate back to the **Java applications** view of the `ACME group`. Click on the **`Export`** icon.
 
-    ![](./images/media/image44.png)
+    <kbd>![](./images/media/image44.png)</kbd>
 
-    b.  From the **Java applications** view of the ACME group, click on the **`Export`** icon.
+    b.   From the “Export” page, ensure the “**Summary of workspace**” and “**Application details**” are selected to be exported, then click **`Export`**.
 
-    ![](./images/media/image45.png)
-
-    c.   From the “Export” page, ensure the “**Summary of workspace**” and “**Application details**” are selected to be exported, then click **`Export`**.
-
-    ![](./images/media/image46.png)
+    <kbd>![](./images/media/image46.png)</kbd>
  
     A zip file named “**ta300_data_3_ACME_WebsphereLiberty_report.zip**” is created in the directory: **/home/techzone/Downloads.**
 
