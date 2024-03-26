@@ -226,14 +226,13 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     **Output from the curl command:**
 
     ```
-    curl -v -k -X POST "http://server0.gym.lan:2220/lands_advisor/advisor/v2/collectionArchives/bulkImport" -H "accept: */*" -H "archiveName: bulk_data_3.zip" -H "Content-Type: application/octet-stream" --data-binary "@/home/techzone/appmod-pot-labfiles/labs/TransformationAdvisor/bulk_data_3.zip"
+    curl -v -k -X POST "http://rhel9-base.gym.lan:2220/lands_advisor/advisor/v2/collectionArchives/bulkImport" -H "accept: */*" -H "archiveName: bulk_data_3.zip" -H "Content-Type: application/octet-stream" --data-binary "@/home/techzone/Student/appmod-pot-labfiles/labs/TransformationAdvisor/bulk_data_3.zip"
     
     Note: Unnecessary use of -X or --request, POST is already inferred.
-    * Trying 10.100.1.61:2220...
-    * Connected to server0.gym.lan (10.100.1.61) port 2220 (#0)
-    
+    *   Trying 192.168.252.2:2220...
+    * Connected to rhel9-base.gym.lan (192.168.252.2) port 2220 (#0)
     > POST /lands_advisor/advisor/v2/collectionArchives/bulkImport HTTP/1.1
-    > Host: server0.gym.lan:2220
+    > Host: rhel9-base.gym.lan:2220
     > User-Agent: curl/7.76.1
     > accept: */*
     > archiveName: bulk_data_3.zip
@@ -244,23 +243,20 @@ In this section of the lab, you will clone the GitHub repo to the **Workstation*
     * Mark bundle as not supporting multiuse
     < HTTP/1.1 100 Continue
     < Content-Length: 0
-    < Date: Tue, 13 Feb 2024 15:00:29 GMT
+    < Date: Tue, 26 Mar 2024 09:39:47 GMT
     * We are completely uploaded and fine
     * Mark bundle as not supporting multiuse
     < HTTP/1.1 200 OK
-    < Date: Tue, 13 Feb 2024 15:00:29 GMT
+    < Date: Tue, 26 Mar 2024 09:39:47 GMT
     < Cache-Control: no-store
     < Pragma: no-cache
     < X-Content-Type-Options: nosniff
     < Content-Type: application/json
     < Content-Language: en-US
-    < Content-Length: 161
+    < Content-Length: 165
     < 
-    
-    * Connection #0 to host server0.gym.lan left intact 
-      {"message":"Bulk upload started.}
-      Track the status at: http://server0.gym.lan:2220/lands_advisor/advisor/v2/collectionArchives/bulkImport/status/83265910884066"
-   
+    * Connection #0 to host rhel9-base.gym.lan left intact
+    {"message":"Bulk upload started. Track the status at: http://rhel9-base.gym.lan:2220/lands_advisor/advisor/v2/collectionArchives/bulkImport/status/344199541317364 "}   
     ```
     It takes a few minutes (3-5 minutes) for the upload to complete.
 
