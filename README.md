@@ -84,7 +84,7 @@ The lab environment contains one Linux VM.
     
     c. Click on the **`vnc.html`** link to open the lab environment through the **noVNC** interface. 
     
-    ![](./images/media/vnc-link.png)
+    <kbd>![](./images/media/vnc-link.png)</kbd>
     
     d. Click the **`Connect`** button 
     
