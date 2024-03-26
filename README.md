@@ -68,10 +68,9 @@ Otherwise, you will need to reserve an environment for the lab. You can obtain o
 
 <https://TBD-to-the-reservation-link>
 
-The lab environment contains six (6) Linux VMs. 
+The lab environment contains one Linux VM. 
 
-![](./images/media/env-list.png)
-
+![](./images/media/env-list_new.png)
 
 <br/>
 
