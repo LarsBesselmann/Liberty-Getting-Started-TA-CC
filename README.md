@@ -362,11 +362,11 @@ Let’s create a new group for the ACME applications.
 
 5.  Select the **`ACME`** group under **`Groups`**, which will cause TA to recalculate the effort involved to modernize the workspace scoped to only include the ACME group of applications.
 
-    ![](./images/media/acme-group.png)
+    <kbd>![](./images/media/acme-group.png)</kbd>
  
     Now you see that TA has recalculated the costs associated for modernizing just the ACME group of applications.
  
-    ![](./images/media/image27.png)
+    <kbd>![](./images/media/image27.png)</kbd>
     
     The **ACME group summary** now shows **5 applications** and an average of **1.7** days to modernize each application.
  
