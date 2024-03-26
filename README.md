@@ -450,17 +450,13 @@ With these insights you will learn which common code libraries would provide the
     
     a.  Expand the “**ACMEAnnuityEJBWSes.ear”** application from the Java applications list
 
-    ![](./images/media/image37.png)
- 
-    The details about the common code used by the **ACMEAnnuityEJBWSes.ear** is displayed.
- 
-    ![](./images/media/image38.png)
+    <kbd>![](./images/media/image37.png)</kbd>
  
     **Note the important details about the modernization cost for the application and common code**
 
     - The application uses **5** common code jar files
 
-    - Cost to modernize the **common code** is **9.5** days
+    - Cost to modernize the **common code** is **7.5** days
 
     - Cost to modernize the **unique application code** is **1.5** days
 
