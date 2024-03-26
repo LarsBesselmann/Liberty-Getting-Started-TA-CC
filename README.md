@@ -307,15 +307,15 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
 
 2.  Click **`ta300_data_3`** workspace link to access the workspace.
 
-    ![Graphical user interface, application Description automatically generated](./images/media/image15.png)
+    ![](./images/media/image15.png)
  
     The **ta300_data_3** workspace page is displayed and has evaluated 15 java applications, including 5 applications related to the ACME application.
  
-    TA has analyzed the **15 java applications** and determined that the total cost of modernizing all applications in the workspace to WebSphere Liberty is 102.5, which is 6.8 days per application.
+    TA has analyzed the **15 java applications** and determined that the total cost of modernizing all applications in the workspace to WebSphere Liberty is 97.5, which is 6.5 days per application.
   
     TA also provided the summarization of the effort modernizing code that is **unique to each application** as well as common code among the applications.
  
-    In this summary, modernizing the **common code cost** is **11** days, and **unique application modernization cost** is **91.5** days.
+    In this summary, modernizing the **common code cost** is **8.5** days, and **unique application modernization cost** is **89.5** days.
  
     ![](./images/media/TA_all15Apps_WLP_Costs.png)
  
