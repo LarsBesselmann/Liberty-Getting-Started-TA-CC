@@ -506,17 +506,17 @@ With these insights you will learn which common code libraries would provide the
  
     <kbd>![](./images/media/image42.png)</kbd>
  
-    In summary, the insights gained using Transformation Advisors common code discovery capability clearly show that performing the **10** days of effort required to modernize the **AcmeAnnuityCommon.jar** file means that MOST of the work will be completed for all five (5) of the ACME applications.
+    In summary, the insights gained using Transformation Advisors common code discovery capability clearly show that performing the **8.5** days of effort required to modernize the **AcmeAnnuityCommon.jar** file means that MOST of the work will be completed for all five (5) of the ACME applications.
   
-    Recall the summary view for the **ACME group of applications** showed the **Total cost** for modernizing the entire ACME group of applications is **11.5** days.
+    Recall the summary view for the **ACME group of applications** showed the **Total cost** for modernizing the entire ACME group of applications is **8.5** days.
  
-    ![](./images/media/image27.png)
+    <kbd>![](./images/media/image27.png)</kbd>
  
-    You learned that **10** days of that work is modernizing the common code, which only needs to be done once.
+    You learned that **7.5** days of that work is modernizing the common code, which only needs to be done once.
  
-    You further learned that the **AcmeAnnuityCommon.jar** file cost accounts for **9.5** days of the **10** days required to modernize the common code.
+    You further learned that the **AcmeAnnuityCommon.jar** file cost accounts for **8.5** days of the **8.5** days required to modernize the common code.
  
-    Lastly, you learned that the cost associated for modernizing the **unique application code** for the **ACME group** of applications is only **2** day of the **11.5** days estimated by Transformation Advisor.
+    Lastly, you learned that the cost associated for modernizing the **unique application code** for the **ACME group** of applications is only **1.5** day of the **11.5** days estimated by Transformation Advisor.
 
     <br/>
 
