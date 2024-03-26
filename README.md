@@ -386,7 +386,7 @@ Let’s create a new group for the ACME applications.
  
     The cost for modernizing the **unique application code** in the ACME group is just **1.5** days.
  
-    ![](./images/media/image29.png bordered)
+    <kdb>![](./images/media/image29.png)</kdb>
  
     TA displays the number of Common code files that it detected and used for each application.
  
