@@ -551,7 +551,7 @@ The export generates a zip file of the workspace summary and /or application det
 3.  Explore the file structure and contents of the exported data.
     
     a. Click on **Activities** to access the toolbar, then select the `File Explorer`.
-    <kbd>![](./images/media/toolbar_fileExplorer.png)</kbd>
+    <kbd>![](./images/media/Toolbar_fileExplorer.png)</kbd>
  
     b. Navigate to the directory: 
     
