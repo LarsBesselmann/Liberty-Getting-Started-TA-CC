@@ -684,20 +684,20 @@ The WebSphere Application Server environment configuration is also available on 
     <kbd>![](./images/media/image53.png)</kbd>
  
 
-3. Upload the “**profile1.zip**” file to TA.
+3. Upload the “**AppSrv01.zip**” file to TA.
     
     a.  From the TA UI, click **`Options > Upload data`** from the **`options`** menu, to start uploading the new **`AppSrv01.zip`** archive collected from the binary scanner.
 
-    ![](./images/media/image55.png)
+    <kbd>![](./images/media/image55.png)</kbd>
 
 
     b. Click **`Drop or add file`** link.
 
-    ![](./images/media/image56.png)
+    <kbd>![](./images/media/image56.png)</kbd>
 
-    c. Navigate to **`Home > techzone > binary-scanner > wamt`** directory. Select **AppSrv01.zip**, then click **`Open`**.
+    c. Navigate to **`Home > techzone > Student > appmod-pot-labfiles > labs > TransformationAdvisor`** directory. Select **AppSrv01.zip**, then click **`Open`**.
 
-    ![](./images/media/image57.png)
+    <kbd>![](./images/media/image57.png)</kbd>
 
     e. Click the drop-down menu for “**Auto-detect collection**”
 
