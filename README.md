@@ -573,9 +573,9 @@ The export generates a zip file of the workspace summary and /or application det
     ___
 
 
-    d.  Navigate to **`/home/techzone/Downloads/ACME/ta300_data_3_ACME/summary/applications`** directory, and open the pdf file to view the ACME applications summary.
+    d.  Open the **`applications`** directory, and double-click on the pdf file to view the ACME applications summary.
 
-    ![](./images/media/image48.png)
+    <kbd>![image48](./images/media/image48.png)</kbd>
  
     ![](./images/media/image49.png)
 
