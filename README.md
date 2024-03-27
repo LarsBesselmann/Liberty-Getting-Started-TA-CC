@@ -742,6 +742,22 @@ The WebSphere Application Server environment configuration is also available on 
 
     Applications on different WebSphere Application servers, which would be in different collections, may share common code from across the enterprise.
 
+
+## Part 5: Cleanup
+
+1.  Finally **`remove`** the **`Student's`** folder and the downloaded assets.
+
+        cd ~
+        rm -rf ~/Student
+        rm ~/Downloads/*
+
+2. Stop Transformation Advisor
+
+        cd /home/techzone/transformation-advisor-local-3.9.0
+        scripts/stopTransformationAdvisor.sh
+
+3. Close the browser and all terminal windows
+
 # Summary
 
 Congratulations\! You have completed the IBM Transformation Advisor Common Code Process lab.
