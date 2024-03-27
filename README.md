@@ -723,7 +723,7 @@ The WebSphere Application Server environment configuration is also available on 
 
 4.  View the Java applications in the new collection that was created when the **AppSrv01.zip** was uploaded.
     
-    a. Expand the “Collections” list, and select the new collection named **`server0.gym.lan`**.
+    a. Expand the “Collections” list, and select the new collection named **`admin.ibm.demo`**.
 
     ![](./images/media/image61.png)
 
