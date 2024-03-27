@@ -545,14 +545,14 @@ The export generates a zip file of the workspace summary and /or application det
 
         cd /home/techzone/Downloads
 
-        unzip ta300_data_3_ACME_websphereLiberty_report.zip -d /home/techzone/Downloads/ACME
+        unzip ta300_data_3_ACME_websphereLiberty_report.zip -d /home/techzone/Student/ACME
 
 
 3.  Explore the file structure and contents of the exported data.
     
     a. Open a `File Explorer` window on the VM and navigate to the directory: 
     
-        Home > techzone > Downloads > ACME > ta300_data_3_ACME
+        Home > techzone > Student > ACME > ta300_data_3_ACME
 
     The file structure is split into two categories, one for the workspace summary, and the other for the application details.
  
