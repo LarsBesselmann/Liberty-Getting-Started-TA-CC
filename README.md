@@ -699,12 +699,7 @@ The WebSphere Application Server environment configuration is also available on 
 
     <kbd>![](./images/media/image57.png)</kbd>
 
-    d. Click **`Upload`**.
-
-    <kbd>![](./images/media/image57-b.png)</kbd>
-
-
-    e. Click the drop-down menu for “**Auto-detect collection**”
+    d. Click the drop-down menu for “**Auto-detect collection**”
 
     This option lets you choose how the new collection will be named as it’s uploaded to TA.
 
@@ -716,7 +711,7 @@ The WebSphere Application Server environment configuration is also available on 
 
     ![](./images/media/image58.png)
 
-    f.  In this case, just accept the default selection “**Auto-detect collection name from archive**”. Then click **`Upload`** to upload the data.
+    e.  In this case, just accept the default selection “**Auto-detect collection name from archive**”. Then click **`Upload`** to upload the data.
 
     ![](./images/media/image59.png)
  
