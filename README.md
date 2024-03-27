@@ -645,7 +645,6 @@ This command-line tool enables administrators to evaluate applications in minute
 In this section, you are going to run the binary scanner against a WebSphere application server profile configuration that has an application called **`PlantsByWebSphere`** deployed. You will use the **`--ta`** option and upload the resulting data collection archive into the TA workspace.
 
 The Binary scanner is a stand-alone jar file. It has already been downloaded to the following directory on the Workstation VM.
-    **Again, DO NOT EXECUTE the following command**
 
 
 > /home/techzone/binary-scanner/wamt
@@ -656,7 +655,8 @@ The WebSphere Application Server environment configuration is also available on 
 
 <br/>
 
-1.  Run the binary scanner to collect the data for the **PlantsByWebSphere** application in the WebSphere profile named “**profile1**”, using the **“--ta**” option.
+1.  Run the binary scanner to collect the data for the **PlantsByWebSphere** application in the WebSphere profile named “**profile1**”, using the **“--ta**” option. 
+**Again, DO NOT EXECUTE the following command**
 
 
         cd /home/techzone/binary-scanner/wamt
