@@ -676,12 +676,12 @@ The WebSphere Application Server environment configuration is also available on 
 # Part 4: Uploading the collection archive created by the Binary Scanner
 **Tip:** As noted in the previous section, the data collection steps have already been done, and the resulting **`AppSrv01.zip`** file is provided for you in the lab environment at **`/home/techzone/Student/appmod-pot-labfiles/labs/TransformationAdvisor/AppSrv01.zip`**.
 
-1.  In the TA UI, click on “**ta300_data_3**” to return to the “**All Java Applications**” view.
+1.  In the TA UI, click on “**All Java Applications**” to return to the “**All Java Applications**” view.
     <kbd>![](./images/media/image53-a.png)</kbd>
 
-    <kbd>![](./images/media/image53.png)</kbd>
- 
     All 15 applications should again be displayed and listed in the workspace.
+
+    <kbd>![](./images/media/image53.png)</kbd>
  
 
 3. Upload the “**profile1.zip**” file to TA.
