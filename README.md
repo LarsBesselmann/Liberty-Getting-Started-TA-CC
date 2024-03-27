@@ -717,7 +717,7 @@ The WebSphere Application Server environment configuration is also available on 
  
     The Java applications in the local WebSphere Application Server are added to the **ta300_data_3** workspace.
  
-     Now the total number of applications in the workspace is **16.**
+     Now the total number of applications in the workspace is **20**.
  
     ![](./images/media/image60.png)
 
