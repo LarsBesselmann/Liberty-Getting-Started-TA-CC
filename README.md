@@ -628,9 +628,25 @@ This command-line tool enables administrators to evaluate applications in minute
 </tbody>
 </table>
 
+
+### **FOR ILLUSTRATIVE PURPOSES ONLY: Simulation of running the binary scanner utility**
+
+<table>
+<tbody>
+<tr class="odd">
+<td><img src="./images/media/image23.png" style="width:0.60625in;height:0.60625in" alt="sign-caution" /></td>
+<td><p><strong>Important:</strong></p>
+<p>This section is for illustrative purposes only.</p>
+<p>DO NOT RUN THE COMMANDS shown in this section!</p></td>
+</tr>
+</tbody>
+</table>
+
 In this section, you are going to run the binary scanner against a WebSphere application server profile configuration that has an application called **`PlantsByWebSphere`** deployed. You will use the **`--ta`** option and upload the resulting data collection archive into the TA workspace.
 
 The Binary scanner is a stand-alone jar file. It has already been downloaded to the following directory on the Workstation VM.
+    **Again, DO NOT EXECUTE the following command**
+
 
 > /home/techzone/binary-scanner/wamt
 
@@ -655,6 +671,11 @@ The WebSphere Application Server environment configuration is also available on 
     > /home/techzone/binary-scanner/wamt
  
      With the data collection archive, **AppSrv01.zip** created using the “--**ta”** option, it can be uploaded into the Transformation Advisor from the UI.
+
+
+# Part 4: Uploading the collection archive created by the Binary Scanner
+**Tip:** As noted in the previous section, the data collection steps have already been done, and the resulting **`AppSrv01.zip`** file is provided for you in the lab environment at **`/home/techzone/Student/appmod-pot-labfiles/labs/TransformationAdvisor/AppSrv01.zip`**.
+
 
 2.  In the TA UI, return to the “**All Java Applications**” view.
 
