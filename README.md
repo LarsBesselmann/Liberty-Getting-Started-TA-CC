@@ -709,11 +709,11 @@ The WebSphere Application Server environment configuration is also available on 
 
     - You can choose to provide your own unique collection name.
 
-    ![](./images/media/image58.png)
+    <kbd>![](./images/media/image58.png)</kbd>
 
     e.  In this case, just accept the default selection “**Auto-detect collection name from archive**”. Then click **`Upload`** to upload the data.
 
-    ![](./images/media/image59.png)
+    <kbd>![](./images/media/image59.png)</kbd>
  
     The Java applications in the local WebSphere Application Server are added to the **ta300_data_3** workspace.
  
