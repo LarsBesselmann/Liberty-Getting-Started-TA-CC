@@ -539,7 +539,7 @@ The export generates a zip file of the workspace summary and /or application det
     c. Accept the defaults, then click on **Save**
     <kbd>![](./images/media/image46-b.png)</kbd>
  
-    A zip file named “**ta300_data_3_ACME_WebsphereLiberty_report.zip**” is created in the directory: **/home/techzone/Downloads.**
+    A zip file named “**ta300_data_3_ACME_websphereLiberty_report.zip**” is created in the directory: **/home/techzone/Downloads.**
 
 2.  From a Terminal window, unzip (extract) the contents of the archive, using the following commands:
 
