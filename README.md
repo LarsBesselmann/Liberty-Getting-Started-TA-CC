@@ -719,17 +719,17 @@ The WebSphere Application Server environment configuration is also available on 
  
      Now the total number of applications in the workspace is **20**.
  
-    ![](./images/media/image60.png)
+    <kbd>![](./images/media/image60.png)</kbd>
 
 4.  View the Java applications in the new collection that was created when the **AppSrv01.zip** was uploaded.
     
     a. Expand the “Collections” list, and select the new collection named **`admin.ibm.demo`**.
 
-    ![](./images/media/image61.png)
+    <kbd>![](./images/media/image61.png)</kbd>
 
-    b. Review the list of applications in this collection. This collection includes the **PlantsByWebSphere** application that is ready for analysis from the workspace.
+    b. Review the list of applications in this collection. This collection includes the **CustomerOrderServicesApp** application as well as four other applications that are ready for analysis from the workspace.
 
-    ![](./images/media/image62.png)
+    <kbd>![](./images/media/image62.png)</kbd>
 
 
     <br/>
