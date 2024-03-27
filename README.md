@@ -664,7 +664,7 @@ The WebSphere Application Server environment configuration is also available on 
         java -jar binaryAppScanner.jar /opt/IBM/WebSphere/AppServer85515 --ta --profile=AppSrv01
 
 
-    ![](./images/media/image52.png)
+    <kbd>![](./images/media/image52.png)</kbd>
  
     The generated data collection archive is name **AppSrv01.zip** and is created in the following directory:
  
@@ -676,10 +676,10 @@ The WebSphere Application Server environment configuration is also available on 
 # Part 4: Uploading the collection archive created by the Binary Scanner
 **Tip:** As noted in the previous section, the data collection steps have already been done, and the resulting **`AppSrv01.zip`** file is provided for you in the lab environment at **`/home/techzone/Student/appmod-pot-labfiles/labs/TransformationAdvisor/AppSrv01.zip`**.
 
+1.  In the TA UI, click on “**ta300_data_3**” to return to the “**All Java Applications**” view.
+    <kbd>![](./images/media/image53-a.png)</kbd>
 
-2.  In the TA UI, return to the “**All Java Applications**” view.
-
-    ![](./images/media/image53.png)
+    <kbd>![](./images/media/image53.png)</kbd>
  
     All 15 applications should again be displayed and listed in the workspace.
  
