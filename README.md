@@ -563,7 +563,7 @@ The export generates a zip file of the workspace summary and /or application det
 
     c.  Open the **`summary`** directory.
     
-    ![](./images/media/image47-b.png)
+    <kbd>![image47-b](./images/media/image47-b.png)</kbd>
 
     ___
 
