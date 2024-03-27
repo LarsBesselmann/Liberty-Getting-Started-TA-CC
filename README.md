@@ -634,7 +634,7 @@ This command-line tool enables administrators to evaluate applications in minute
 <table>
 <tbody>
 <tr class="odd">
-<td><img src="./images/media/image23.png" style="width:0.60625in;height:0.60625in" alt="sign-caution" /></td>
+<td><img src="./images/media/Warning.png" style="width:0.60625in;height:0.60625in" alt="sign-caution" /></td>
 <td><p><strong>Important:</strong></p>
 <p>This section is for illustrative purposes only.</p>
 <p>DO NOT RUN THE COMMANDS shown in this section!</p></td>
