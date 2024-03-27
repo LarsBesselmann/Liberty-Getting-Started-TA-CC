@@ -559,7 +559,7 @@ The export generates a zip file of the workspace summary and /or application det
 
     The file structure is split into two categories, one for the workspace summary, and the other for the application details.
  
-    ![](./images/media/image47.png)
+    <kbd>![image47](./images/media/image47.png)</kbd>
 
     c.  Open the **`summary`** directory.
     
