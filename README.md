@@ -577,7 +577,7 @@ The export generates a zip file of the workspace summary and /or application det
 
     <kbd>![image48](./images/media/image48.png)</kbd>
  
-    ![](./images/media/image49.png)
+    <kbd>![image49](./images/media/image49.png)</kbd>
 
     e.  Navigate to **`/home/techzone/Downloads/ACME/ta300_data_3_ACME/summary/commonCode`** directory, and open the pdf file to view the common code summary
 
