@@ -550,7 +550,10 @@ The export generates a zip file of the workspace summary and /or application det
 
 3.  Explore the file structure and contents of the exported data.
     
-    a. Open a `File Explorer` window on the VM and navigate to the directory: 
+    a. Click on **Activities** to access the toolbar, then select the `File Explorer`.
+    <kbd>![](./images/media/toolbar_fileExplorer.png)</kbd>
+ 
+    b. Navigate to the directory: 
     
         Home > techzone > Student > ACME > ta300_data_3_ACME
 
@@ -558,7 +561,7 @@ The export generates a zip file of the workspace summary and /or application det
  
     ![](./images/media/image47.png)
 
-    b.  Open the **`summary`** directory.
+    c.  Open the **`summary`** directory.
     
     ![](./images/media/image47-b.png)
 
@@ -570,13 +573,13 @@ The export generates a zip file of the workspace summary and /or application det
     ___
 
 
-    c.  Navigate to **`/home/techzone/Downloads/ACME/ta300_data_3_ACME/summary/applications`** directory, and open the pdf file to view the ACME applications summary.
+    d.  Navigate to **`/home/techzone/Downloads/ACME/ta300_data_3_ACME/summary/applications`** directory, and open the pdf file to view the ACME applications summary.
 
     ![](./images/media/image48.png)
  
     ![](./images/media/image49.png)
 
-    d.  Navigate to **`/home/techzone/Downloads/ACME/ta300_data_3_ACME/summary/commonCode`** directory, and open the pdf file to view the common code summary
+    e.  Navigate to **`/home/techzone/Downloads/ACME/ta300_data_3_ACME/summary/commonCode`** directory, and open the pdf file to view the common code summary
 
     ![](./images/media/image50.png)
  
