@@ -88,14 +88,14 @@ The lab environment contains one Linux VM.
     
     d. Click the **`Connect`** button 
     
-      ![](./images/media/vnc-connect.png)
+      <kbd>![](./images/media/vnc-connect.png)</kbd>
 
 
     e. Enter the password as:  **`passw0rd`**. Then click the **`Send Credentials`** button to access the lab environment. 
 
     > Note: That is a numeric zero in passw0rd  
 
-      ![](./images/media/vnc-password.png)
+      <kbd>![](./images/media/vnc-password.png)</kbd>
 
 	 
 	 <br>
@@ -112,7 +112,7 @@ The lab environment contains one Linux VM.
 
 	 <br>
  
-     ![student vm screen](./images/media/techzone-user-pw.png)
+     <kbd>![student vm screen](./images/media/techzone-user-pw.png)</kbd>
 	 
 	 <br>
 
@@ -122,11 +122,11 @@ The lab environment contains one Linux VM.
 
     a. From the environemnt VM, click on the **twisty** on the noNC control pane to open the menu.  
 
-    ![fit to window](./images/media/z-twisty.png)
+    <kbd>![fit to window](./images/media/z-twisty.png)</kbd>
 
     b. To increase the visible area, click on `Settings > Scaling Mode` and set the value to `Remote Resizing`
       
-     ![fit to window](./images/media/z-remote-resize.png)
+     <kbd>![fit to window](./images/media/z-remote-resize.png)</kbd>
 
 
 2.  You can copy / paste text from the lab guide into the lab environment using the clipboard in the noVNC viewer. 
@@ -135,7 +135,7 @@ The lab environment contains one Linux VM.
     
     b. Click the **Clipboard** icon and **paste** the text into the noVNC clipboard
 
-    ![fit to window](./images/media/paste.png)
+    <kbd>![fit to window](./images/media/paste.png)</kbd>
     
     c. Paste the text into the VM, such as to a terminal window, browser window, etc. 
 
@@ -323,7 +323,7 @@ Once the bulk data upload processing is complete, it creates a **workspace** in 
  
     The bulk upload operation loaded the applications into TA, each into a separate “**collection**”. The name of the collections was determined by the hostnames of the WebSphere server where the applications were running. These names can be overridden in the TA UI, if desired.
  
-    ![Graphical user interface, text, application Description automatically generated](./images/media/image18.png)
+    <kbd>![Graphical user interface, text, application Description automatically generated](./images/media/image18.png)</kbd>
  
     These default collection names can be overridden in the TA UI, if desired, by using the “**edit collection**” option from the Options menu. For this lab, you will just keep the default collection names.
  
@@ -634,7 +634,7 @@ This command-line tool enables administrators to evaluate applications in minute
 <table>
 <tbody>
 <tr class="odd">
-<td><img src="./images/media/Warning.png" style="width:0.60625in;height:0.60625in" alt="sign-caution" /></td>
+<td><kbd><img src="./images/media/warn.png" style="width:0.60625in;height:0.60625in" alt="sign-caution" /></kbd></td>
 <td><p><strong>Important:</strong></p>
 <p>This section is for illustrative purposes only.</p>
 <p>DO NOT RUN THE COMMANDS shown in this section!</p></td>
