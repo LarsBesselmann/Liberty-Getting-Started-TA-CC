@@ -68,9 +68,9 @@ Otherwise, you will need to reserve an environment for the lab. You can obtain o
 
 <https://TBD-to-the-reservation-link>
 
-The lab environment contains one Linux VM. 
+The lab environment contains one (1) Linux VM, named Workstation.
 
-<kbd>![](./images/media/env-list_new.png)</kbd>
+<kbd>![](./images/media/workstation.png)</kbd>
 
 <br/>
 
@@ -91,9 +91,9 @@ The lab environment contains one Linux VM.
       <kbd>![](./images/media/vnc-connect.png)</kbd>
 
 
-    e. Enter the password as:  **`passw0rd`**. Then click the **`Send Credentials`** button to access the lab environment. 
+    e. Enter the password as:  **`IBMDem0s!`**. Then click the **`Send Credentials`** button to access the lab environment. 
 
-    > Note: That is a numeric zero in passw0rd  
+    > Note: That is a numeric zero in IBMDem0s!  
 
       <kbd>![](./images/media/vnc-password.png)</kbd>
 
