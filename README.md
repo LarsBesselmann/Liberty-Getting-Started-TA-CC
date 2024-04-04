@@ -516,7 +516,30 @@ With these insights you will learn which common code libraries would provide the
  
     <br/>
 
-## 2.3.1 Export and review the Workspace summary and application details
+## 2.3.1 Use the Migration Guidance to see where to start with
+
+Now that you know which application needs which efforts to get modernized, this raises the question which application to start with.
+Transformation Advisor provides some guidance how you could get started.
+
+1. In TA, navigate back to the Java applications view. Click on the link for **Guidance**.
+
+    <kbd>![TA-Guidance1](./images/media/TA-Guidance1.png)</kbd>
+
+2. A wizard pops up and explains how to use the guide. Feel free to navigate through the guide via **Next**, then close the wizard.
+
+    <kbd>![TA-Guidance2](./images/media/TA-Guidance2.png)</kbd>
+
+3. On the top, you will see the list of **simple applications** which do not need any code change. Feel free to click on **Shw more** to see all applications.
+
+    <kbd>![TA-Guidance3a](./images/media/TA-Guidance3a.png)</kbd>
+
+4. Scroll down to the section with **moderate applications**. 
+
+    <kbd>![TA-Guidance3b](./images/media/TA-Guidance3b.png)</kbd>
+
+    As you can see, the guide recommends to start with the moderate application **ACMEAnnuityEJBMDB.ear** as the code changes will help for 4 other applications as well  and only one jar file is impacted. Feel free to investigate further into the differenbt recommendations.
+
+## 2.3.2 Export and review the Workspace summary and application details
 
 For large enterprises, there could be hundreds of applications and thousands of common code files that need to be analyzed.
 
