@@ -537,7 +537,7 @@ Transformation Advisor provides some guidance how you could get started.
 
     <kbd>![TA-Guidance3b](./images/media/TA-Guidance3b.png)</kbd>
 
-    As you can see, the guide recommends to start with the moderate application **ACMEAnnuityEJBMDB.ear** as the code changes will help for 4 other applications as well  and only one jar file is impacted. Feel free to investigate further into the differenbt recommendations.
+    As you can see, the guide recommends to start with the moderate application **ACMEAnnuityEJBMDB.ear** as the code changes will help for 4 other applications as well  and only one jar file is impacted. Feel free to investigate further into the different recommendations.
 
 ## 2.3.2 Export and review the Workspace summary and application details
 
